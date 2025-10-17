@@ -11,6 +11,5 @@ langchain-google-genai
 pydantic
 tavily-python
 rapidfuzz
-websockets
 google-genai
 openai-agents
